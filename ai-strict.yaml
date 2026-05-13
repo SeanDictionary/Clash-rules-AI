@@ -1,0 +1,32 @@
+payload:
+  # OpenAI / ChatGPT / GPT / Sora
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.ai.com'
+  - '+.sora.com'
+  - '+.chat.com'
+  - 'openai-api.arkoselabs.com'
+  - 'chatgpt.livekit.cloud'
+
+  # Claude / Anthropic
+  - '+.anthropic.com'
+  - '+.claude.ai'
+  - '+.claude.com'
+  - '+.claudeusercontent.com'
+
+  # Gemini / Google AI / AI Studio / NotebookLM
+  - '+.gemini.google.com'
+  - '+.aistudio.google.com'
+  - '+.ai.google.dev'
+  - '+.makersuite.google.com'
+  - '+.bard.google.com'
+  - '+.notebooklm.google.com'
+  - '+.notebooklm.googleapis.com'
+  - '+.generativelanguage.googleapis.com'
+  - '+.aiplatform.googleapis.com'
+  - '+.cloudaicompanion.googleapis.com'
+  - '+.deepmind.google'
+  - '+.deepmind.com'
+  - '+.labs.google'
